@@ -1,0 +1,100 @@
+--[[
+    This file protected by yqantg obfuscator
+    Authorized Edition - Secure Virtual Machine Pro
+--]]
+return (function(...)
+    local _yqantg_fake_system = {}
+local _0x09c51d = function() if _0xc8fa3d == nil then return "09c51d" end end; repeat _0x09c51d() until true
+if _yqantg_fake_system["_0x09c51d"] == "c8fa3d" then repeat until false end
+local _0xe9fb2c = function() if _0xcabb29 == nil then return "e9fb2c" end end; repeat _0xe9fb2c() until true
+if _yqantg_fake_system["_0xe9fb2c"] == "cabb29" then repeat until false end
+local _0x71ec30 = function() if _0x037dff == nil then return "71ec30" end end; repeat _0x71ec30() until true
+if _yqantg_fake_system["_0x71ec30"] == "037dff" then repeat until false end
+local _0xec71f1 = function() if _0x189187 == nil then return "ec71f1" end end; repeat _0xec71f1() until true
+if _yqantg_fake_system["_0xec71f1"] == "189187" then repeat until false end
+local _0x9cf4ec = function() if _0xbef720 == nil then return "9cf4ec" end end; repeat _0x9cf4ec() until true
+if _yqantg_fake_system["_0x9cf4ec"] == "bef720" then repeat until false end
+local _0x1e92f2 = function() if _0xe1ca74 == nil then return "1e92f2" end end; repeat _0x1e92f2() until true
+if _yqantg_fake_system["_0x1e92f2"] == "e1ca74" then repeat until false end
+local _0x6a07b5 = function() if _0x3899dd == nil then return "6a07b5" end end; repeat _0x6a07b5() until true
+if _yqantg_fake_system["_0x6a07b5"] == "3899dd" then repeat until false end
+local _0x1b846c = function() if _0x17c6c6 == nil then return "1b846c" end end; repeat _0x1b846c() until true
+if _yqantg_fake_system["_0x1b846c"] == "17c6c6" then repeat until false end
+local _0x24fd88 = function() if _0xa6248f == nil then return "24fd88" end end; repeat _0x24fd88() until true
+if _yqantg_fake_system["_0x24fd88"] == "a6248f" then repeat until false end
+local _0xa62ba4 = function() if _0x222276 == nil then return "a62ba4" end end; repeat _0xa62ba4() until true
+if _yqantg_fake_system["_0xa62ba4"] == "222276" then repeat until false end
+local _0x604761 = function() if _0xa40e9f == nil then return "604761" end end; repeat _0x604761() until true
+if _yqantg_fake_system["_0x604761"] == "a40e9f" then repeat until false end
+local _0x5d5955 = function() if _0xeca0ec == nil then return "5d5955" end end; repeat _0x5d5955() until true
+if _yqantg_fake_system["_0x5d5955"] == "eca0ec" then repeat until false end
+local _0xf7ab58 = function() if _0x6e5f36 == nil then return "f7ab58" end end; repeat _0xf7ab58() until true
+if _yqantg_fake_system["_0xf7ab58"] == "6e5f36" then repeat until false end
+local _0x167493 = function() if _0x32bd8c == nil then return "167493" end end; repeat _0x167493() until true
+if _yqantg_fake_system["_0x167493"] == "32bd8c" then repeat until false end
+local _0x282de0 = function() if _0x622256 == nil then return "282de0" end end; repeat _0x282de0() until true
+if _yqantg_fake_system["_0x282de0"] == "622256" then repeat until false end
+local _0x414f7e = function() if _0x28a29c == nil then return "414f7e" end end; repeat _0x414f7e() until true
+if _yqantg_fake_system["_0x414f7e"] == "28a29c" then repeat until false end
+local _0x363ff2 = function() if _0x2a0224 == nil then return "363ff2" end end; repeat _0x363ff2() until true
+if _yqantg_fake_system["_0x363ff2"] == "2a0224" then repeat until false end
+local _0x85318d = function() if _0x4614a7 == nil then return "85318d" end end; repeat _0x85318d() until true
+if _yqantg_fake_system["_0x85318d"] == "4614a7" then repeat until false end
+local _0x01f04b = function() if _0x792c36 == nil then return "01f04b" end end; repeat _0x01f04b() until true
+if _yqantg_fake_system["_0x01f04b"] == "792c36" then repeat until false end
+local _0x4e731c = function() if _0xa0345d == nil then return "4e731c" end end; repeat _0x4e731c() until true
+if _yqantg_fake_system["_0x4e731c"] == "a0345d" then repeat until false end
+local _0xa8e6de = function() if _0x2e38e0 == nil then return "a8e6de" end end; repeat _0xa8e6de() until true
+if _yqantg_fake_system["_0xa8e6de"] == "2e38e0" then repeat until false end
+local _0x60dd47 = function() if _0xc189cf == nil then return "60dd47" end end; repeat _0x60dd47() until true
+if _yqantg_fake_system["_0x60dd47"] == "c189cf" then repeat until false end
+local _0xa028c6 = function() if _0xbaf349 == nil then return "a028c6" end end; repeat _0xa028c6() until true
+if _yqantg_fake_system["_0xa028c6"] == "baf349" then repeat until false end
+local _0x1212f8 = function() if _0xf20004 == nil then return "1212f8" end end; repeat _0x1212f8() until true
+if _yqantg_fake_system["_0x1212f8"] == "f20004" then repeat until false end
+local _0x1172f3 = function() if _0xe1247c == nil then return "1172f3" end end; repeat _0x1172f3() until true
+if _yqantg_fake_system["_0x1172f3"] == "e1247c" then repeat until false end
+local _0xafbd40 = function() if _0xfa7009 == nil then return "afbd40" end end; repeat _0xafbd40() until true
+if _yqantg_fake_system["_0xafbd40"] == "fa7009" then repeat until false end
+local _0x7efc84 = function() if _0x4931f3 == nil then return "7efc84" end end; repeat _0x7efc84() until true
+if _yqantg_fake_system["_0x7efc84"] == "4931f3" then repeat until false end
+local _0xfc5dc7 = function() if _0x8828a0 == nil then return "fc5dc7" end end; repeat _0xfc5dc7() until true
+if _yqantg_fake_system["_0xfc5dc7"] == "8828a0" then repeat until false end
+local _0x8040d1 = function() if _0x7dce4c == nil then return "8040d1" end end; repeat _0x8040d1() until true
+if _yqantg_fake_system["_0x8040d1"] == "7dce4c" then repeat until false end
+local _0x027ba9 = function() if _0xf9296f == nil then return "027ba9" end end; repeat _0x027ba9() until true
+if _yqantg_fake_system["_0x027ba9"] == "f9296f" then repeat until false end
+local _0xf27030 = function() if _0xfe4bc1 == nil then return "f27030" end end; repeat _0xf27030() until true
+if _yqantg_fake_system["_0xf27030"] == "fe4bc1" then repeat until false end
+local _0xb7ce29 = function() if _0xb953d7 == nil then return "b7ce29" end end; repeat _0xb7ce29() until true
+if _yqantg_fake_system["_0xb7ce29"] == "b953d7" then repeat until false end
+local _0x02152d = function() if _0xc48786 == nil then return "02152d" end end; repeat _0x02152d() until true
+if _yqantg_fake_system["_0x02152d"] == "c48786" then repeat until false end
+local _0xeef198 = function() if _0x763c62 == nil then return "eef198" end end; repeat _0xeef198() until true
+if _yqantg_fake_system["_0xeef198"] == "763c62" then repeat until false end
+local _0x7f5967 = function() if _0xe039e3 == nil then return "7f5967" end end; repeat _0x7f5967() until true
+if _yqantg_fake_system["_0x7f5967"] == "e039e3" then repeat until false end
+local _0x7df2e1 = function() if _0x7397a3 == nil then return "7df2e1" end end; repeat _0x7df2e1() until true
+if _yqantg_fake_system["_0x7df2e1"] == "7397a3" then repeat until false end
+local _0xe38c39 = function() if _0xb64b0a == nil then return "e38c39" end end; repeat _0xe38c39() until true
+if _yqantg_fake_system["_0xe38c39"] == "b64b0a" then repeat until false end
+local _0x397b0a = function() if _0x2885ed == nil then return "397b0a" end end; repeat _0x397b0a() until true
+if _yqantg_fake_system["_0x397b0a"] == "2885ed" then repeat until false end
+local _0xfa70f3 = function() if _0xf7f028 == nil then return "fa70f3" end end; repeat _0xfa70f3() until true
+if _yqantg_fake_system["_0xfa70f3"] == "f7f028" then repeat until false end
+local _0xb8e403 = function() if _0x6a456c == nil then return "b8e403" end end; repeat _0xb8e403() until true
+if _yqantg_fake_system["_0xb8e403"] == "6a456c" then repeat until false end
+
+    local _yqantg_loop = {1, 2, 3, 4, 5}
+for _key, _val in pairs(_yqantg_loop) do
+    if _val == 1 then _yqantg_fake_system = {} end
+    if _val == 99 then return nil end
+end
+    local _yqantg_encoded = "\108\111\99\97\108\32\103\117\105\32\61\32\73\110\115\116\97\110\99\101\46\110\101\119\40\34\83\99\114\101\101\110\71\117\105\34\41\13\10\103\117\105\46\78\97\109\101\32\61\32\34\87\111\114\107\105\110\103\71\117\105\34\13\10\103\117\105\46\82\101\115\101\116\79\110\83\112\97\119\110\32\61\32\102\97\108\115\101\13\10\103\117\105\46\80\97\114\101\110\116\32\61\32\103\97\109\101\58\71\101\116\83\101\114\118\105\99\101\40\34\67\111\114\101\71\117\105\34\41\13\10\13\10\108\111\99\97\108\32\116\101\120\116\32\61\32\73\110\115\116\97\110\99\101\46\110\101\119\40\34\84\101\120\116\76\97\98\101\108\34\41\13\10\116\101\120\116\46\80\97\114\101\110\116\32\61\32\103\117\105\13\10\116\101\120\116\46\83\105\122\101\32\61\32\85\68\105\109\50\46\110\101\119\40\48\44\32\50\53\48\44\32\48\44\32\54\48\41\13\10\116\101\120\116\46\80\111\115\105\116\105\111\110\32\61\32\85\68\105\109\50\46\110\101\119\40\48\46\53\44\32\45\49\50\53\44\32\48\46\49\44\32\48\41\13\10\13\10\116\101\120\116\46\66\97\99\107\103\114\111\117\110\100\84\114\97\110\115\112\97\114\101\110\99\121\32\61\32\48\46\51\13\10\116\101\120\116\46\66\97\99\107\103\114\111\117\110\100\67\111\108\111\114\51\32\61\32\67\111\108\111\114\51\46\102\114\111\109\82\71\66\40\48\44\48\44\48\41\13\10\13\10\116\101\120\116\46\84\101\120\116\32\61\32\34\87\79\82\75\73\78\71\46\46\46\34\13\10\116\101\120\116\46\84\101\120\116\67\111\108\111\114\51\32\61\32\67\111\108\111\114\51\46\102\114\111\109\82\71\66\40\48\44\50\53\53\44\48\41\13\10\116\101\120\116\46\84\101\120\116\83\99\97\108\101\100\32\61\32\116\114\117\101\13\10\116\101\120\116\46\70\111\110\116\32\61\32\69\110\117\109\46\70\111\110\116\46\71\111\116\104\97\109\66\111\108\100\13\10\13\10\116\101\120\116\46\66\111\114\100\101\114\83\105\122\101\80\105\120\101\108\32\61\32\48\13\10\13\10\108\111\99\97\108\32\99\111\114\110\101\114\32\61\32\73\110\115\116\97\110\99\101\46\110\101\119\40\34\85\73\67\111\114\110\101\114\34\41\13\10\99\111\114\110\101\114\46\67\111\114\110\101\114\82\97\100\105\117\115\32\61\32\85\68\105\109\46\110\101\119\40\48\44\49\50\41\13\10\99\111\114\110\101\114\46\80\97\114\101\110\116\32\61\32\116\101\120\116"
+    local _yqantg_exec, _yqantg_err = loadstring(_yqantg_encoded)
+    if _yqantg_exec then
+        return _yqantg_exec(...)
+    else
+        error("[yqantg error]: Secure validation failed -> " .. tostring(_yqantg_err))
+    end
+end)(...);
