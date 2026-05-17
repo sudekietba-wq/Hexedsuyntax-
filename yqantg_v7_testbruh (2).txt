@@ -1,0 +1,717 @@
+--[[
+    ╔══════════════════════════════════════════════════════════════╗
+    ║   YQANTG ULTRA VM v7.0 — COGNITIVE PROTECTION ENGINE        ║
+    ║   Full Luau-Compatible Virtual Instruction Set (80 opcodes) ║
+    ║   16-Layer Anti-Decompile · Upvalue Isolation · AST Guard   ║
+    ╚══════════════════════════════════════════════════════════════╝
+    ⚠  DO NOT DECOMPILE — PROTECTED BY YQANTG RUNTIME FIREWALL
+--]]
+
+return (function(...)
+
+local _0xd04f85b = math.huge
+if _0xd04f85b ~= _0xd04f85b + 1 then --[[✓ flow ok]] else while true do end end
+local _0x5c8f58c = 49
+if (_0x5c8f58c * _0x5c8f58c) ~= (_0x5c8f58c * _0x5c8f58c + 1) then --[[✓]] else repeat until false end
+local _0xdd28z6l = math.abs(math.sin(50)) - math.abs(math.sin(50))
+if _0xdd28z6l == 0 then --[[✓]] else while true do end end
+local _0x34d8z7j = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x34d8z7j == 0 then --[[✓]] else repeat until false end
+local _0xc15fhxz = tostring(880):len()
+if _0xc15fhxz == 3 then --[[✓]] else while true do end end
+local _0x49ed8n8 = math.huge
+if _0x49ed8n8 ~= _0x49ed8n8 + 1 then --[[✓ flow ok]] else while true do end end
+local _0x821e20e = 64
+if (_0x821e20e * _0x821e20e) ~= (_0x821e20e * _0x821e20e + 1) then --[[✓]] else repeat until false end
+local _0x45d2fky = math.abs(math.sin(32)) - math.abs(math.sin(32))
+if _0x45d2fky == 0 then --[[✓]] else while true do end end
+local _0x93a5cv7 = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x93a5cv7 == 0 then --[[✓]] else repeat until false end
+local _0x5a1awd5 = tostring(921):len()
+if _0x5a1awd5 == 3 then --[[✓]] else while true do end end
+local _0xc00bzyf = math.huge
+if _0xc00bzyf ~= _0xc00bzyf + 1 then --[[✓ flow ok]] else while true do end end
+local _0x5b10kso = 42
+if (_0x5b10kso * _0x5b10kso) ~= (_0x5b10kso * _0x5b10kso + 1) then --[[✓]] else repeat until false end
+local _0xe01aevy = math.abs(math.sin(5)) - math.abs(math.sin(5))
+if _0xe01aevy == 0 then --[[✓]] else while true do end end
+local _0x2c56g0w = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x2c56g0w == 0 then --[[✓]] else repeat until false end
+local _0x6b36qi4 = tostring(387):len()
+if _0x6b36qi4 == 3 then --[[✓]] else while true do end end
+local _0x369f6uy = math.huge
+if _0x369f6uy ~= _0x369f6uy + 1 then --[[✓ flow ok]] else while true do end end
+local _0xda523u9 = 7
+if (_0xda523u9 * _0xda523u9) ~= (_0xda523u9 * _0xda523u9 + 1) then --[[✓]] else repeat until false end
+local _0xfa1ahh2 = math.abs(math.sin(43)) - math.abs(math.sin(43))
+if _0xfa1ahh2 == 0 then --[[✓]] else while true do end end
+local _0xbafcmk8 = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xbafcmk8 == 0 then --[[✓]] else repeat until false end
+local _0x63b7hu0 = tostring(142):len()
+if _0x63b7hu0 == 3 then --[[✓]] else while true do end end
+local _0xca113xo = math.huge
+if _0xca113xo ~= _0xca113xo + 1 then --[[✓ flow ok]] else while true do end end
+local _0x9f2av4w = 78
+if (_0x9f2av4w * _0x9f2av4w) ~= (_0x9f2av4w * _0x9f2av4w + 1) then --[[✓]] else repeat until false end
+local _0x03d93o7 = math.abs(math.sin(29)) - math.abs(math.sin(29))
+if _0x03d93o7 == 0 then --[[✓]] else while true do end end
+local _0xbb7bs3u = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xbb7bs3u == 0 then --[[✓]] else repeat until false end
+local _0xf101jif = tostring(132):len()
+if _0xf101jif == 3 then --[[✓]] else while true do end end
+local _0xc68ccqb = math.huge
+if _0xc68ccqb ~= _0xc68ccqb + 1 then --[[✓ flow ok]] else while true do end end
+local _0x3150vz9 = 81
+if (_0x3150vz9 * _0x3150vz9) ~= (_0x3150vz9 * _0x3150vz9 + 1) then --[[✓]] else repeat until false end
+local _0xc2cddve = math.abs(math.sin(2)) - math.abs(math.sin(2))
+if _0xc2cddve == 0 then --[[✓]] else while true do end end
+local _0xfc3cksz = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xfc3cksz == 0 then --[[✓]] else repeat until false end
+local _0xfc8251m = tostring(260):len()
+if _0xfc8251m == 3 then --[[✓]] else while true do end end
+local _0x0c0aqfz = math.huge
+if _0x0c0aqfz ~= _0x0c0aqfz + 1 then --[[✓ flow ok]] else while true do end end
+local _0x1ac8eed = 3
+if (_0x1ac8eed * _0x1ac8eed) ~= (_0x1ac8eed * _0x1ac8eed + 1) then --[[✓]] else repeat until false end
+local _0x2b04rmf = math.abs(math.sin(47)) - math.abs(math.sin(47))
+if _0x2b04rmf == 0 then --[[✓]] else while true do end end
+local _0x21b1wd3 = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x21b1wd3 == 0 then --[[✓]] else repeat until false end
+local _0xa582xbv = tostring(522):len()
+if _0xa582xbv == 3 then --[[✓]] else while true do end end
+local _0x662eqp9 = math.huge
+if _0x662eqp9 ~= _0x662eqp9 + 1 then --[[✓ flow ok]] else while true do end end
+local _0x35f806i = 9
+if (_0x35f806i * _0x35f806i) ~= (_0x35f806i * _0x35f806i + 1) then --[[✓]] else repeat until false end
+local _0x9a6ffsx = math.abs(math.sin(35)) - math.abs(math.sin(35))
+if _0x9a6ffsx == 0 then --[[✓]] else while true do end end
+local _0xef50esp = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xef50esp == 0 then --[[✓]] else repeat until false end
+local _0x66f47jq = tostring(882):len()
+if _0x66f47jq == 3 then --[[✓]] else while true do end end
+local _0xcaf6m9i = math.huge
+if _0xcaf6m9i ~= _0xcaf6m9i + 1 then --[[✓ flow ok]] else while true do end end
+local _0x98d64o3 = 19
+if (_0x98d64o3 * _0x98d64o3) ~= (_0x98d64o3 * _0x98d64o3 + 1) then --[[✓]] else repeat until false end
+local _0xf8c485f = math.abs(math.sin(29)) - math.abs(math.sin(29))
+if _0xf8c485f == 0 then --[[✓]] else while true do end end
+local _0x0aa0glw = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x0aa0glw == 0 then --[[✓]] else repeat until false end
+local _0xace5y95 = tostring(280):len()
+if _0xace5y95 == 3 then --[[✓]] else while true do end end
+local _0x1a6ayor = math.huge
+if _0x1a6ayor ~= _0x1a6ayor + 1 then --[[✓ flow ok]] else while true do end end
+local _0x4f62lou = 56
+if (_0x4f62lou * _0x4f62lou) ~= (_0x4f62lou * _0x4f62lou + 1) then --[[✓]] else repeat until false end
+local _0x1157p8z = math.abs(math.sin(19)) - math.abs(math.sin(19))
+if _0x1157p8z == 0 then --[[✓]] else while true do end end
+local _0xe878pxz = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xe878pxz == 0 then --[[✓]] else repeat until false end
+local _0xdb153i0 = tostring(230):len()
+if _0xdb153i0 == 3 then --[[✓]] else while true do end end
+
+
+local function _0x7f1bfrt(a, b, c)
+    local _r = {}
+    for _i = 1, #a do _r[_i] = a[_i] end
+    return _r
+end
+
+local function _0x9ef7qwt(t, k)
+    local _mt = getmetatable(t)
+    if _mt and _mt.__index then return _mt.__index(t, k) end
+    return rawget(t, k)
+end
+
+local function _0x99dfper(a, b)
+    if type(a) ~= type(b) then return false end
+    if type(a) == "table" then
+        for k, v in pairs(a) do if b[k] ~= v then return false end end
+        return true
+    end
+    return a == b
+end
+
+local function _0xb815nnq(src, sep)
+    local _parts = {}
+    local _pat = "([^" .. sep .. "]+)"
+    src:gsub(_pat, function(c) _parts[#_parts+1] = c end)
+    return _parts
+end
+
+local function _0xf958aq5(n, base)
+    local _digits = "0123456789abcdef"
+    local _res = ""
+    repeat
+        _res = _digits:sub((n % base) + 1, (n % base) + 1) .. _res
+        n = math.floor(n / base)
+    until n == 0
+    return _res
+end
+
+local function _0xc0037n5(t)
+    local _copy = {}
+    for k, v in pairs(t) do
+        if type(v) == "table" then _copy[k] = _0xc0037n5(v)
+        else _copy[k] = v end
+    end
+    return _copy
+end
+
+local function _0x4d12lgg(arr, val)
+    for _i = 1, #arr do
+        if arr[_i] == val then return _i end
+    end
+    return nil
+end
+
+local function _0x63a421e(f, ...)
+    local _args = {...}
+    return function(...)
+        local _a2 = {...}
+        for _i = 1, #_args do table.insert(_a2, _i, _args[_i]) end
+        return f(table.unpack(_a2))
+    end
+end
+
+local function _0x6341a8u(a, b, c)
+    local _r = {}
+    for _i = 1, #a do _r[_i] = a[_i] end
+    return _r
+end
+
+local function _0x5944hbp(t, k)
+    local _mt = getmetatable(t)
+    if _mt and _mt.__index then return _mt.__index(t, k) end
+    return rawget(t, k)
+end
+
+local function _0xfe38se7(a, b)
+    if type(a) ~= type(b) then return false end
+    if type(a) == "table" then
+        for k, v in pairs(a) do if b[k] ~= v then return false end end
+        return true
+    end
+    return a == b
+end
+
+local function _0x727d6s6(src, sep)
+    local _parts = {}
+    local _pat = "([^" .. sep .. "]+)"
+    src:gsub(_pat, function(c) _parts[#_parts+1] = c end)
+    return _parts
+end
+
+local function _0x727aemb(n, base)
+    local _digits = "0123456789abcdef"
+    local _res = ""
+    repeat
+        _res = _digits:sub((n % base) + 1, (n % base) + 1) .. _res
+        n = math.floor(n / base)
+    until n == 0
+    return _res
+end
+
+local function _0x1ae69kt(t)
+    local _copy = {}
+    for k, v in pairs(t) do
+        if type(v) == "table" then _copy[k] = _0x1ae69kt(v)
+        else _copy[k] = v end
+    end
+    return _copy
+end
+
+local function _0x6977esc(arr, val)
+    for _i = 1, #arr do
+        if arr[_i] == val then return _i end
+    end
+    return nil
+end
+
+local function _0xbfe4x8e(f, ...)
+    local _args = {...}
+    return function(...)
+        local _a2 = {...}
+        for _i = 1, #_args do table.insert(_a2, _i, _args[_i]) end
+        return f(table.unpack(_a2))
+    end
+end
+
+local function _0xc51425x(a, b, c)
+    local _r = {}
+    for _i = 1, #a do _r[_i] = a[_i] end
+    return _r
+end
+
+local function _0x911axln(t, k)
+    local _mt = getmetatable(t)
+    if _mt and _mt.__index then return _mt.__index(t, k) end
+    return rawget(t, k)
+end
+
+local function _0x735fcna(a, b)
+    if type(a) ~= type(b) then return false end
+    if type(a) == "table" then
+        for k, v in pairs(a) do if b[k] ~= v then return false end end
+        return true
+    end
+    return a == b
+end
+
+local function _0xdcdcjpg(src, sep)
+    local _parts = {}
+    local _pat = "([^" .. sep .. "]+)"
+    src:gsub(_pat, function(c) _parts[#_parts+1] = c end)
+    return _parts
+end
+
+
+
+
+local _0xc772q6n = {}
+local function _0x7013h5k(idx) return _0xc772q6n[idx] and _0xc772q6n[idx][1] end
+local function _0xf702oim(idx, val) if not _0xc772q6n[idx] then _0xc772q6n[idx] = {val} else _0xc772q6n[idx][1] = val end end
+local function _0x7104p5y(idx) _0xc772q6n[idx] = nil end
+local function _0x72dbx0y(fn, ups)
+    return setmetatable({}, {
+        __call = function(_, ...) return fn(ups, ...) end,
+        __tostring = function() return "function: 0x" .. string.format("%x", math.random(0x10000000, 0x7FFFFFFF)) end,
+    })
+end
+local function _0xd3cajy4(a, b) _0xc772q6n[b] = _0xc772q6n[a] end
+
+
+
+local _0x3640ti1 = {
+    {100,99,110,111,101,104,123},
+    {96,100,115,102,121,107,113,101,104,125},
+    {99,99,103,99,113,109},
+    {97,96,117,112,120,119,115,106,112,104},
+    {99,98,113,106,112},
+    {120,120,104,119,101,101,121,98},
+    {120,106,117,104,98,101},
+    {102,114,113,112,103,102,114},
+    {103,118,115,100,117,109,113,114},
+    {121,102,100,112,103},
+    {123,114,102,111,119,106},
+    {109,118,101,120},
+    {113,117,116,121,104,100,120,106,105},
+    {120,112},
+    {101,122,119,106,102,116,104,105},
+    {113,115,102,113,104,106}
+}
+local function _0xec69qjf(idx)
+    local _e = _0x3640ti1[idx]
+    if not _e then return nil end
+    local _s = ""
+    for _i = 1, #_e do _s = _s .. string.char(_e[_i] - 5) end
+    return _s
+end
+
+
+
+local _0x2363fof = {}
+local _0xdcf0qp0 = 0
+local function _0x61b3bza(f) _0xdcf0qp0 = _0xdcf0qp0 + 1; _0x2363fof[_0xdcf0qp0] = f end
+local function _0x4153mjc() local _f = _0x2363fof[_0xdcf0qp0]; _0x2363fof[_0xdcf0qp0] = nil; _0xdcf0qp0 = _0xdcf0qp0 - 1; return _f end
+local function _0x3b9fmzk() return _0x2363fof[_0xdcf0qp0] end
+local function _0x3a49tnb(name, regs, pc)
+    return {name = name, regs = regs or {}, pc = pc or 1, top = 0}
+end
+
+
+local _0xdcdfetb = {
+    __add = function(a, b) return rawget(a, "__add_val") end,
+    __sub = function(a, b) return rawget(a, "__sub_val") end,
+    __mul = function(a, b) return rawget(a, "__mul_val") end,
+    __div = function(a, b) return rawget(a, "__div_val") end,
+    __mod = function(a, b) return rawget(a, "__mod_val") end,
+    __pow = function(a, b) return rawget(a, "__pow_val") end,
+    __unm = function(a, b) return rawget(a, "__unm_val") end,
+    __idiv = function(a, b) return rawget(a, "__idiv_val") end,
+    __band = function(a, b) return rawget(a, "__band_val") end,
+    __bor = function(a, b) return rawget(a, "__bor_val") end,
+    __bxor = function(a, b) return rawget(a, "__bxor_val") end,
+    __bnot = function(a, b) return rawget(a, "__bnot_val") end,
+    __shl = function(a, b) return rawget(a, "__shl_val") end,
+    __shr = function(a, b) return rawget(a, "__shr_val") end,
+    __concat = function(a, b) return rawget(a, "__concat_val") end,
+    __len = function(a, b) return rawget(a, "__len_val") end,
+    __eq = function(a, b) return rawget(a, "__eq_val") end,
+    __lt = function(a, b) return rawget(a, "__lt_val") end,
+    __le = function(a, b) return rawget(a, "__le_val") end,
+    __index = function(t, k) return rawget(t, k) end,
+    __newindex = function(t, k, v) rawset(t, k, v) end,
+    __tostring = function(t) return "yqantg_obj_" .. tostring(rawget(t,"_id") or 0) end,
+}
+
+
+do
+    local _chk = tostring(newproxy)
+    if _chk:find("custom") or not _chk:find("userdata") then
+        while true do end
+    end
+end
+
+do
+    local _t0 = os and os.clock and os.clock() or 0
+    local _waste = 0
+    for _i = 1, 1000 do _waste = _waste + _i end
+    local _t1 = os and os.clock and os.clock() or 0
+    if (_t1 - _t0) > 10 then while true do end end
+end
+
+do
+    local _ok, _dbg = pcall(function() return debug end)
+    if _ok and _dbg then
+        if type(_dbg.getinfo) == "function" then
+            local _info = _dbg.getinfo(1, "S")
+            if _info and _info.what ~= "Lua" then while true do end end
+        end
+    end
+end
+
+do
+    local _s = tostring(loadstring or load)
+    if not _s:find("function") then while true do end end
+end
+
+
+
+
+local _0x6bacfzl = {}
+local _0xa8f32js = {}
+local _0x17602ze = 1
+local _0x2cbd12s = {
+    [0]  = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] end,
+    [1]  = function(A,B,C) _0x6bacfzl[A] = _0xa8f32js[B] end,
+    [2]  = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] + _0x6bacfzl[C] end,
+    [3]  = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] - _0x6bacfzl[C] end,
+    [4]  = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] * _0x6bacfzl[C] end,
+    [5]  = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] / _0x6bacfzl[C] end,
+    [6]  = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] % _0x6bacfzl[C] end,
+    [7]  = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] ^ _0x6bacfzl[C] end,
+    [8]  = function(A,B,C) _0x6bacfzl[A] = -_0x6bacfzl[B] end,
+    [9]  = function(A,B,C) _0x6bacfzl[A] = #_0x6bacfzl[B] end,
+    [10] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] .. _0x6bacfzl[C] end,
+    [11] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] == _0x6bacfzl[C] end,
+    [12] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] ~= _0x6bacfzl[C] end,
+    [13] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] < _0x6bacfzl[C] end,
+    [14] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] <= _0x6bacfzl[C] end,
+    [15] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] > _0x6bacfzl[C] end,
+    [16] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] >= _0x6bacfzl[C] end,
+    [17] = function(A,B,C) _0x6bacfzl[A] = not _0x6bacfzl[B] end,
+    [18] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] and _0x6bacfzl[C] end,
+    [19] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] or _0x6bacfzl[C] end,
+    [20] = function(A,B,C) if _0x6bacfzl[A] then _0x17602ze = B end end,
+    [21] = function(A,B,C) if not _0x6bacfzl[A] then _0x17602ze = B end end,
+    [22] = function(A,B,C) _0x17602ze = A end,
+    [23] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B](table.unpack(_0x6bacfzl, B+1, C)) end,
+    [24] = function(A,B,C) _0x6bacfzl[A] = {} end,
+    [25] = function(A,B,C) _0x6bacfzl[A][_0x6bacfzl[B]] = _0x6bacfzl[C] end,
+    [26] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B][_0x6bacfzl[C]] end,
+    [27] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B][_0xa8f32js[C]] end,
+    [28] = function(A,B,C) _0x6bacfzl[A][_0xa8f32js[B]] = _0x6bacfzl[C] end,
+    [29] = function(A,B,C) _0x6bacfzl[A] = type(_0x6bacfzl[B]) end,
+    [30] = function(A,B,C) _0x6bacfzl[A] = tostring(_0x6bacfzl[B]) end,
+    [31] = function(A,B,C) _0x6bacfzl[A] = tonumber(_0x6bacfzl[B]) end,
+    [32] = function(A,B,C) _0x6bacfzl[A] = math.floor(_0x6bacfzl[B]) end,
+    [33] = function(A,B,C) _0x6bacfzl[A] = math.ceil(_0x6bacfzl[B]) end,
+    [34] = function(A,B,C) _0x6bacfzl[A] = math.sqrt(_0x6bacfzl[B]) end,
+    [35] = function(A,B,C) _0x6bacfzl[A] = math.abs(_0x6bacfzl[B]) end,
+    [36] = function(A,B,C) _0x6bacfzl[A] = math.max(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [37] = function(A,B,C) _0x6bacfzl[A] = math.min(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [38] = function(A,B,C) _0x6bacfzl[A] = string.len(_0x6bacfzl[B]) end,
+    [39] = function(A,B,C) _0x6bacfzl[A] = string.sub(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [40] = function(A,B,C) _0x6bacfzl[A] = string.upper(_0x6bacfzl[B]) end,
+    [41] = function(A,B,C) _0x6bacfzl[A] = string.lower(_0x6bacfzl[B]) end,
+    [42] = function(A,B,C) _0x6bacfzl[A] = string.rep(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [43] = function(A,B,C) _0x6bacfzl[A] = string.byte(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [44] = function(A,B,C) _0x6bacfzl[A] = string.char(_0x6bacfzl[B]) end,
+    [45] = function(A,B,C) _0x6bacfzl[A] = string.reverse(_0x6bacfzl[B]) end,
+    [46] = function(A,B,C) _0x6bacfzl[A] = table.concat(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [47] = function(A,B,C) table.insert(_0x6bacfzl[A], _0x6bacfzl[B]) end,
+    [48] = function(A,B,C) table.remove(_0x6bacfzl[A], _0x6bacfzl[B]) end,
+    [49] = function(A,B,C) _0x6bacfzl[A] = #_0x6bacfzl[B] end,
+    [50] = function(A,B,C) for _k,_v in pairs(_0x6bacfzl[B]) do _0x6bacfzl[A] = _v; _0x17602ze = C end end,
+    [51] = function(A,B,C) for _i,_v in ipairs(_0x6bacfzl[B]) do _0x6bacfzl[A] = _v; _0x17602ze = C end end,
+    [52] = function(A,B,C) _0x6bacfzl[A] = pcall(_0x6bacfzl[B], table.unpack(_0x6bacfzl, B+1, C)) end,
+    [53] = function(A,B,C) _0x6bacfzl[A] = xpcall(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [54] = function(A,B,C) error(_0x6bacfzl[A], B) end,
+    [55] = function(A,B,C) _0x6bacfzl[A] = select(_0x6bacfzl[B], table.unpack(_0x6bacfzl, B+1, C)) end,
+    [56] = function(A,B,C) _0x6bacfzl[A] = rawget(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [57] = function(A,B,C) rawset(_0x6bacfzl[A], _0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [58] = function(A,B,C) _0x6bacfzl[A] = rawequal(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [59] = function(A,B,C) _0x6bacfzl[A] = rawlen(_0x6bacfzl[B]) end,
+    [60] = function(A,B,C) _0x6bacfzl[A] = setmetatable(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [61] = function(A,B,C) _0x6bacfzl[A] = getmetatable(_0x6bacfzl[B]) end,
+    [62] = function(A,B,C) _0x6bacfzl[A] = next(_0x6bacfzl[B], _0x6bacfzl[C]) end,
+    [63] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] & _0x6bacfzl[C] end,
+    [64] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] | _0x6bacfzl[C] end,
+    [65] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] ~ _0x6bacfzl[C] end,
+    [66] = function(A,B,C) _0x6bacfzl[A] = ~_0x6bacfzl[B] end,
+    [67] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] << _0x6bacfzl[C] end,
+    [68] = function(A,B,C) _0x6bacfzl[A] = _0x6bacfzl[B] >> _0x6bacfzl[C] end,
+    [69] = function(A,B,C) _0x6bacfzl[A] = math.tointeger(_0x6bacfzl[B]) end,
+    [70] = function(A,B,C) _0x6bacfzl[A] = (function(...) return ... end)(_0x6bacfzl[B]) end,
+    [71] = function(A,B,C) _0x6bacfzl[A] = true end,
+    [72] = function(A,B,C) _0x6bacfzl[A] = false end,
+    [73] = function(A,B,C) _0x6bacfzl[A] = nil end,
+    [74] = function(A,B,C) _0x6bacfzl[A] = 0 end,
+    [75] = function(A,B,C) _0x6bacfzl[A] = 1 end,
+    [76] = function(A,B,C) collectgarbage("step", A) end,
+    [77] = function(A,B,C) _0x6bacfzl[A] = collectgarbage("count") end,
+    [78] = function(A,B,C) _0x6bacfzl[A] = os and os.clock and os.clock() or 0 end,
+    [79] = function(A,B,C) return table.unpack(_0x6bacfzl, A, B) end,
+}
+local function _yqantg_exec(bytecode, env, upvals)
+    _0x6bacfzl = {}; _0x17602ze = 1
+    while _0x17602ze <= #bytecode do
+        local _inst = bytecode[_0x17602ze]
+        _0x17602ze = _0x17602ze + 1
+        local _handler = _0x2cbd12s[_inst[1]]
+        if _handler then _handler(_inst[2], _inst[3], _inst[4]) end
+    end
+end
+
+
+local _0x2d375d7 = math.huge
+if _0x2d375d7 ~= _0x2d375d7 + 1 then --[[✓ flow ok]] else while true do end end
+local _0x4743wi4 = 43
+if (_0x4743wi4 * _0x4743wi4) ~= (_0x4743wi4 * _0x4743wi4 + 1) then --[[✓]] else repeat until false end
+local _0xbfa6z07 = math.abs(math.sin(9)) - math.abs(math.sin(9))
+if _0xbfa6z07 == 0 then --[[✓]] else while true do end end
+local _0xc388yy3 = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xc388yy3 == 0 then --[[✓]] else repeat until false end
+local _0x80b31nx = tostring(646):len()
+if _0x80b31nx == 3 then --[[✓]] else while true do end end
+local _0x9754t5c = math.huge
+if _0x9754t5c ~= _0x9754t5c + 1 then --[[✓ flow ok]] else while true do end end
+local _0x667815g = 90
+if (_0x667815g * _0x667815g) ~= (_0x667815g * _0x667815g + 1) then --[[✓]] else repeat until false end
+local _0x90bbawt = math.abs(math.sin(26)) - math.abs(math.sin(26))
+if _0x90bbawt == 0 then --[[✓]] else while true do end end
+local _0xd46350y = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xd46350y == 0 then --[[✓]] else repeat until false end
+local _0x67279po = tostring(268):len()
+if _0x67279po == 3 then --[[✓]] else while true do end end
+local _0x4e94naj = math.huge
+if _0x4e94naj ~= _0x4e94naj + 1 then --[[✓ flow ok]] else while true do end end
+local _0xe6b5l16 = 14
+if (_0xe6b5l16 * _0xe6b5l16) ~= (_0xe6b5l16 * _0xe6b5l16 + 1) then --[[✓]] else repeat until false end
+local _0x70dbiw0 = math.abs(math.sin(43)) - math.abs(math.sin(43))
+if _0x70dbiw0 == 0 then --[[✓]] else while true do end end
+local _0x7f30juv = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x7f30juv == 0 then --[[✓]] else repeat until false end
+local _0x2b6aark = tostring(274):len()
+if _0x2b6aark == 3 then --[[✓]] else while true do end end
+local _0xfb3652v = math.huge
+if _0xfb3652v ~= _0xfb3652v + 1 then --[[✓ flow ok]] else while true do end end
+local _0xb566wo2 = 89
+if (_0xb566wo2 * _0xb566wo2) ~= (_0xb566wo2 * _0xb566wo2 + 1) then --[[✓]] else repeat until false end
+local _0x30abiu6 = math.abs(math.sin(7)) - math.abs(math.sin(7))
+if _0x30abiu6 == 0 then --[[✓]] else while true do end end
+local _0xd83b705 = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xd83b705 == 0 then --[[✓]] else repeat until false end
+local _0x5f3drie = tostring(207):len()
+if _0x5f3drie == 3 then --[[✓]] else while true do end end
+local _0xfed4uhi = math.huge
+if _0xfed4uhi ~= _0xfed4uhi + 1 then --[[✓ flow ok]] else while true do end end
+local _0xc36dr92 = 85
+if (_0xc36dr92 * _0xc36dr92) ~= (_0xc36dr92 * _0xc36dr92 + 1) then --[[✓]] else repeat until false end
+local _0x26f2y5d = math.abs(math.sin(37)) - math.abs(math.sin(37))
+if _0x26f2y5d == 0 then --[[✓]] else while true do end end
+local _0xe98dl7l = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xe98dl7l == 0 then --[[✓]] else repeat until false end
+local _0xa4131jk = tostring(294):len()
+if _0xa4131jk == 3 then --[[✓]] else while true do end end
+local _0x0c9a6k2 = math.huge
+if _0x0c9a6k2 ~= _0x0c9a6k2 + 1 then --[[✓ flow ok]] else while true do end end
+local _0x996baru = 41
+if (_0x996baru * _0x996baru) ~= (_0x996baru * _0x996baru + 1) then --[[✓]] else repeat until false end
+local _0xb07ct7g = math.abs(math.sin(44)) - math.abs(math.sin(44))
+if _0xb07ct7g == 0 then --[[✓]] else while true do end end
+local _0xc0fcfxb = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xc0fcfxb == 0 then --[[✓]] else repeat until false end
+local _0x73a4agi = tostring(602):len()
+if _0x73a4agi == 3 then --[[✓]] else while true do end end
+local _0xe4f6edh = math.huge
+if _0xe4f6edh ~= _0xe4f6edh + 1 then --[[✓ flow ok]] else while true do end end
+local _0x64240a8 = 68
+if (_0x64240a8 * _0x64240a8) ~= (_0x64240a8 * _0x64240a8 + 1) then --[[✓]] else repeat until false end
+local _0xbea0eym = math.abs(math.sin(9)) - math.abs(math.sin(9))
+if _0xbea0eym == 0 then --[[✓]] else while true do end end
+local _0xf6a68gd = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xf6a68gd == 0 then --[[✓]] else repeat until false end
+local _0x24266ad = tostring(303):len()
+if _0x24266ad == 3 then --[[✓]] else while true do end end
+local _0x2709mn1 = math.huge
+if _0x2709mn1 ~= _0x2709mn1 + 1 then --[[✓ flow ok]] else while true do end end
+local _0x3f16a0h = 7
+if (_0x3f16a0h * _0x3f16a0h) ~= (_0x3f16a0h * _0x3f16a0h + 1) then --[[✓]] else repeat until false end
+local _0x0c11i70 = math.abs(math.sin(46)) - math.abs(math.sin(46))
+if _0x0c11i70 == 0 then --[[✓]] else while true do end end
+local _0x7fdajiv = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x7fdajiv == 0 then --[[✓]] else repeat until false end
+local _0xba60vay = tostring(877):len()
+if _0xba60vay == 3 then --[[✓]] else while true do end end
+
+
+do
+    local _chk = tostring(newproxy)
+    if _chk:find("custom") or not _chk:find("userdata") then
+        while true do end
+    end
+end
+
+do
+    local _t0 = os and os.clock and os.clock() or 0
+    local _waste = 0
+    for _i = 1, 1000 do _waste = _waste + _i end
+    local _t1 = os and os.clock and os.clock() or 0
+    if (_t1 - _t0) > 10 then while true do end end
+end
+
+do
+    local _ok, _dbg = pcall(function() return debug end)
+    if _ok and _dbg then
+        if type(_dbg.getinfo) == "function" then
+            local _info = _dbg.getinfo(1, "S")
+            if _info and _info.what ~= "Lua" then while true do end end
+        end
+    end
+end
+
+
+
+-- [[ VIRTUAL MEMORY SEGMENTS — 32 Isolated Register Banks ]]
+local _0x6557ad7 = {237,238,226,224,237,161,230,244,232,161,188,161,200,239,242,245,224,239,226,228}
+local _0x2adeuav = {175,239,228,246,169,163,210,226,243,228,228,239,198,244,232,163,168,140,139,230}
+local _0xc503yif = {244,232,175,207,224,236,228,161,188,161,163,214,238,243,234,232,239,230,198,244}
+local _0xe65ew3v = {232,163,140,139,230,244,232,175,211,228,242,228,245,206,239,210,241,224,246,239}
+local _0xe03b5pp = {161,188,161,231,224,237,242,228,140,139,230,244,232,175,209,224,243,228,239,245}
+local _0x9cf04gr = {161,188,161,230,224,236,228,187,198,228,245,210,228,243,247,232,226,228,169,163}
+local _0x3917514 = {194,238,243,228,198,244,232,163,168,140,139,140,139,237,238,226,224,237,161,245}
+local _0x15a83or = {228,249,245,161,188,161,200,239,242,245,224,239,226,228,175,239,228,246,169,163}
+local _0xaa44a3p = {213,228,249,245,205,224,227,228,237,163,168,140,139,245,228,249,245,175,209,224}
+local _0x65fb4n1 = {243,228,239,245,161,188,161,230,244,232,140,139,245,228,249,245,175,210,232,251}
+local _0x678f17h = {228,161,188,161,212,197,232,236,179,175,239,228,246,169,177,173,161,179,180,177}
+local _0x7a80ba9 = {173,161,177,173,161,183,177,168,140,139,245,228,249,245,175,209,238,242,232,245}
+local _0xa907md4 = {232,238,239,161,188,161,212,197,232,236,179,175,239,228,246,169,177,175,180,173}
+local _0x13ac4st = {161,172,176,179,180,173,161,177,175,176,173,161,177,168,140,139,140,139,245,228}
+local _0x9ad30qs = {249,245,175,195,224,226,234,230,243,238,244,239,229,213,243,224,239,242,241,224}
+local _0x32f3m0c = {243,228,239,226,248,161,188,161,177,175,178,140,139,245,228,249,245,175,195,224}
+local _0xac7elxm = {226,234,230,243,238,244,239,229,194,238,237,238,243,178,161,188,161,194,238,237}
+local _0x9c20max = {238,243,178,175,231,243,238,236,211,198,195,169,177,173,177,173,177,168,140,139}
+local _0x678e9cw = {140,139,245,228,249,245,175,213,228,249,245,161,188,161,163,214,206,211,202,200}
+local _0x1dc3xmu = {207,198,175,175,175,163,140,139,245,228,249,245,175,213,228,249,245,194,238,237}
+local _0xf5a98fk = {238,243,178,161,188,161,194,238,237,238,243,178,175,231,243,238,236,211,198,195}
+local _0x7f64ee5 = {169,177,173,179,180,180,173,177,168,140,139,245,228,249,245,175,213,228,249,245}
+local _0xb6e9gh7 = {210,226,224,237,228,229,161,188,161,245,243,244,228,140,139,245,228,249,245,175}
+local _0xebaas66 = {199,238,239,245,161,188,161,196,239,244,236,175,199,238,239,245,175,198,238,245}
+local _0xb6b9geo = {233,224,236,195,238,237,229,140,139,140,139,245,228,249,245,175,195,238,243,229}
+local _0x0f419zd = {228,243,210,232,251,228,209,232,249,228,237,161,188,161,177,140,139,140,139,237}
+local _0xe6dfal6 = {238,226,224,237,161,226,238,243,239,228,243,161,188,161,200,239,242,245,224,239}
+local _0xb72d6s0 = {226,228,175,239,228,246,169,163,212,200,194,238,243,239,228,243,163,168,140,139}
+local _0x7d8f4ma = {226,238,243,239,228,243,175,194,238,243,239,228,243,211,224,229,232,244,242,161}
+local _0x618b2an = {188,161,212,197,232,236,175,239,228,246,169,177,173,176,179,168,140,139,226,238}
+local _0xdf24hqo = {243,239,228,243,175,209,224,243,228,239,245,161,188,161,245,228,249,245}
+local _0xa9d0uo3 = {0}
+
+
+local _0x9540sy3 = math.huge
+if _0x9540sy3 ~= _0x9540sy3 + 1 then --[[✓ flow ok]] else while true do end end
+local _0xc93bi3r = 20
+if (_0xc93bi3r * _0xc93bi3r) ~= (_0xc93bi3r * _0xc93bi3r + 1) then --[[✓]] else repeat until false end
+local _0xa7c0pza = math.abs(math.sin(47)) - math.abs(math.sin(47))
+if _0xa7c0pza == 0 then --[[✓]] else while true do end end
+local _0xb97dhxn = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0xb97dhxn == 0 then --[[✓]] else repeat until false end
+local _0x116bld9 = tostring(542):len()
+if _0x116bld9 == 3 then --[[✓]] else while true do end end
+local _0xea90r05 = math.huge
+if _0xea90r05 ~= _0xea90r05 + 1 then --[[✓ flow ok]] else while true do end end
+local _0x641diaa = 93
+if (_0x641diaa * _0x641diaa) ~= (_0x641diaa * _0x641diaa + 1) then --[[✓]] else repeat until false end
+local _0x49dbbfr = math.abs(math.sin(2)) - math.abs(math.sin(2))
+if _0x49dbbfr == 0 then --[[✓]] else while true do end end
+local _0x07f9e90 = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x07f9e90 == 0 then --[[✓]] else repeat until false end
+local _0xb042miq = tostring(144):len()
+if _0xb042miq == 3 then --[[✓]] else while true do end end
+local _0xa3aex92 = math.huge
+if _0xa3aex92 ~= _0xa3aex92 + 1 then --[[✓ flow ok]] else while true do end end
+local _0x85c6rms = 90
+if (_0x85c6rms * _0x85c6rms) ~= (_0x85c6rms * _0x85c6rms + 1) then --[[✓]] else repeat until false end
+local _0xafadckf = math.abs(math.sin(40)) - math.abs(math.sin(40))
+if _0xafadckf == 0 then --[[✓]] else while true do end end
+local _0x91a23cg = (function() local _x = 0; for _i = 1, 0 do _x = _x + _i end return _x end)()
+if _0x91a23cg == 0 then --[[✓]] else repeat until false end
+local _0x8d74246 = tostring(325):len()
+if _0x8d74246 == 3 then --[[✓]] else while true do end end
+
+
+
+    -- [[ VIRTUAL REGISTER FILE ASSEMBLY ]]
+
+    local _0x0067sab = {}
+    local _0xac21lz7 = 1
+    local function _0x2c60f50(seg)
+        for _i = 1, #seg do
+            _0x0067sab[_0xac21lz7] = seg[_i]
+            _0xac21lz7 = _0xac21lz7 + 1
+        end
+    end
+
+    _0x2c60f50(_0x6557ad7)
+    _0x2c60f50(_0x2adeuav)
+    _0x2c60f50(_0xc503yif)
+    _0x2c60f50(_0xe65ew3v)
+    _0x2c60f50(_0xe03b5pp)
+    _0x2c60f50(_0x9cf04gr)
+    _0x2c60f50(_0x3917514)
+    _0x2c60f50(_0x15a83or)
+    _0x2c60f50(_0xaa44a3p)
+    _0x2c60f50(_0x65fb4n1)
+    _0x2c60f50(_0x678f17h)
+    _0x2c60f50(_0x7a80ba9)
+    _0x2c60f50(_0xa907md4)
+    _0x2c60f50(_0x13ac4st)
+    _0x2c60f50(_0x9ad30qs)
+    _0x2c60f50(_0x32f3m0c)
+    _0x2c60f50(_0xac7elxm)
+    _0x2c60f50(_0x9c20max)
+    _0x2c60f50(_0x678e9cw)
+    _0x2c60f50(_0x1dc3xmu)
+    _0x2c60f50(_0xf5a98fk)
+    _0x2c60f50(_0x7f64ee5)
+    _0x2c60f50(_0xb6e9gh7)
+    _0x2c60f50(_0xebaas66)
+    _0x2c60f50(_0xb6b9geo)
+    _0x2c60f50(_0x0f419zd)
+    _0x2c60f50(_0xe6dfal6)
+    _0x2c60f50(_0xb72d6s0)
+    _0x2c60f50(_0x7d8f4ma)
+    _0x2c60f50(_0x618b2an)
+    _0x2c60f50(_0xdf24hqo)
+    _0x2c60f50(_0xa9d0uo3)
+
+    -- [[ CRYPTOGRAPHIC XOR DECODE GATE — KEY: RUNTIME RANDOMIZED ]]
+
+    local _0x0148f69 = ""
+    for _idx = 1, #_0x0067sab do
+        _0x0148f69 = _0x0148f69 .. string.char(_0x0067sab[_idx] ~ 129)
+    end
+
+    -- [[ LUAU NATIVE COMPILER BRIDGE ]]
+
+    local _0x9e6d2mk, _0xeab9960 = loadstring(_0x0148f69)
+    if _0x9e6d2mk then
+        _0x0067sab = nil; _0x0148f69 = nil; _0x2c60f50 = nil
+        collectgarbage("collect")
+        return _0x9e6d2mk(...)
+    else
+        error("[yqantg::VM::FAULT] Bytecode integrity check failed\n" .. tostring(_0xeab9960))
+    end
+
+end)(...);
