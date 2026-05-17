@@ -1,0 +1,23 @@
+local gui = Instance.new("ScreenGui")
+gui.Name = "WorkingGui"
+gui.ResetOnSpawn = false
+gui.Parent = game:GetService("CoreGui")
+
+local text = Instance.new("TextLabel")
+text.Parent = gui
+text.Size = UDim2.new(0, 250, 0, 60)
+text.Position = UDim2.new(0.5, -125, 0.1, 0)
+
+text.BackgroundTransparency = 0.3
+text.BackgroundColor3 = Color3.fromRGB(0,0,0)
+
+text.Text = "WORKING..."
+text.TextColor3 = Color3.fromRGB(0,255,0)
+text.TextScaled = true
+text.Font = Enum.Font.GothamBold
+
+text.BorderSizePixel = 0
+
+local corner = Instance.new("UICorner")
+corner.CornerRadius = UDim.new(0,12)
+corner.Parent = text
